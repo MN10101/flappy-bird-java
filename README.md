@@ -23,6 +23,8 @@ This is a simple implementation of the Flappy Bird game using Java Swing.
 javac *.java
 java App
 
+-
+
 ## Credits
 
 - Developer: Mahmoud Najmeh
