@@ -21,8 +21,7 @@ This is a simple implementation of the Flappy Bird game using Java Swing.
    
 ```bash
 javac *.java
-java App
----
+- java App
 
 
 ## Credits
