@@ -18,9 +18,11 @@ This is a simple implementation of the Flappy Bird game using Java Swing.
 
 1. Make sure you have Java installed on your system.
 2. Compile the source code using `javac` or run it directly using an IDE like IntelliJ IDEA.
+   
 ```bash
 javac *.java
 java App
+---
 
 
 ## Credits
