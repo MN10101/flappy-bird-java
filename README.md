@@ -36,3 +36,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ﻿# Flappy-Bird
 
+![2](https://github.com/MN10101/flappy-bird-java/assets/78208459/2fe66a1d-7c60-48a4-a993-cb7e7f53d3d5)
+
