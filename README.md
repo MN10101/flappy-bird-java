@@ -32,7 +32,7 @@ This is a simple implementation of the Flappy Bird game using Java Swing.
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 1.0 - see the [LICENSE](LICENSE) file for details.
 
 
 Flappy-Bird
