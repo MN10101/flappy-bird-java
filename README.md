@@ -30,11 +30,6 @@ This is a simple implementation of the Flappy Bird game using Java Swing.
 - Release Date: 18/04/2024
 - Version: 1.0
 
-## License
-
-This project is licensed under the Apache License 1.0 - see the [LICENSE](LICENSE) file for details.
-
-
 Flappy-Bird
 
 ![2](https://github.com/MN10101/flappy-bird-java/assets/78208459/2fe66a1d-7c60-48a4-a993-cb7e7f53d3d5)
